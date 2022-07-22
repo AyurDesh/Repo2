@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9406-9F92
+
+ Directory of C:\Users\Ayur Deshpande\OneDrive\Desktop\My Project
+
+22-07-2022  13:10    <DIR>          .
+22-07-2022  13:10    <DIR>          ..
+22-07-2022  13:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  79,305,732,096 bytes free
